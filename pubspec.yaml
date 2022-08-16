@@ -13,7 +13,7 @@ dependencies:
   xml: ^4.4.1
   http: ^0.12.0+2
   path: ^1.6.4
-  mime: ^0.9.6
+  mime: ^1.0.0
 
 dev_dependencies:
   test: ^1.0.0
